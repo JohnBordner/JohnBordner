@@ -1,5 +1,6 @@
-## Hi there 👋
+## 💻 Passionate CS Student & Developer
 
+I’m John, a computer science student at Metropolitan State University, with a strong background in Java, Python, and SQL. My projects, showcase my skills in building interactive web and mobile applications using Java, Kotlin, Spring, etc. I have a background in IT support which has helped build a solid foundation in problem solving. Check out my portfolio here to explore my work in web development, android development, and more.
 <!--
 **JohnBordner/JohnBordner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
