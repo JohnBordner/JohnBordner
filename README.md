@@ -1,6 +1,6 @@
 ## 💻 Passionate CS Student & Developer
 
-I’m John, a senior computer science student at Metropolitan State University (Class of 2025). My projects showcase my skills in building interactive web and mobile applications using React, Java with Spring, Kotlin with Android Studio, and more. I have a background in IT support, which has helped build a solid foundation in problem solving. I'm also passionate about FOSS (Free and Open Source Software) and believe in contributing to and learning from the open-source community. Check out my portfolio here to explore my work in web development, Android development, and more.
+I’m John, a computer science graduate at Metropolitan State University (Class of 2025). My projects showcase my skills in building interactive web and mobile applications using React, Java with Spring, Kotlin with Android Studio, and more. I have a background in IT support, which has helped build a solid foundation in problem solving. I'm also passionate about FOSS (Free and Open Source Software) and believe in contributing to and learning from the open-source community. Check out my portfolio here to explore my work in web development, Android development, and more.
 <!--
 **JohnBordner/JohnBordner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
